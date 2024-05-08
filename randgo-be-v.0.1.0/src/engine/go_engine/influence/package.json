@@ -1,0 +1,31 @@
+{
+  "name": "@sabaki/influence",
+  "version": "1.2.2",
+  "description": "Simple static heuristics for estimating influence maps on Go positions.",
+  "main": "./src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabakiHQ/influence.git"
+  },
+  "keywords": [
+    "go",
+    "weiqi",
+    "baduk",
+    "strategy",
+    "analyzer",
+    "boardgame",
+    "influence"
+  ],
+  "author": "Yichuan Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SabakiHQ/influence/issues"
+  },
+  "homepage": "https://github.com/SabakiHQ/influence",
+  "devDependencies": {
+    "tap": "^14.6.1"
+  },
+  "scripts": {
+    "test": "tap tests/*.test.js"
+  }
+}

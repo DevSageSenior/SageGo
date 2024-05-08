@@ -1,0 +1,29 @@
+{
+  "name": "go-board",
+  "version": "1.4.2",
+  "description": "A Go board data type",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "jest tests/GoBoard.test.js"
+  },
+  "keywords": [
+    "go",
+    "board-game",
+    "weiqi",
+    "baduk",
+    "datatype",
+    "strategy"
+  ],
+  "author": "Yichuan Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SabakiHQ/go-board/issues"
+  },
+  "homepage": "https://github.com/SabakiHQ/go-board#readme",
+  "devDependencies": {
+    "tap": "^14.11.0"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

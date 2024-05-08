@@ -1,0 +1,72 @@
+{
+  "en": {
+    "name": "English",
+    "nativeName": "English",
+    "stats": {
+      "totalStringsCount": 453,
+      "translatedStringsCount": 453,
+      "progress": 1,
+      "unusedFlags": 0
+    }
+  },
+  "ru": {
+    "name": "Russian",
+    "nativeName": "русский",
+    "stats": {
+      "totalStringsCount": 453,
+      "translatedStringsCount": 440,
+      "progress": 0.9713024282560706,
+      "unusedFlags": 0
+    }
+  },
+  "ja": {
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "stats": {
+      "totalStringsCount": 454,
+      "translatedStringsCount": 446,
+      "progress": 0.9823788546255506,
+      "unusedFlags": 1
+    }
+  },
+  "ko": {
+    "name": "Korean",
+    "nativeName": "한국어",
+    "stats": {
+      "totalStringsCount": 454,
+      "translatedStringsCount": 442,
+      "progress": 0.973568281938326,
+      "unusedFlags": 1
+    }
+  },
+  "zh-Hans": {
+    "name": "Simplified Chinese",
+    "nativeName": "简体中文",
+    "stats": {
+      "totalStringsCount": 454,
+      "translatedStringsCount": 446,
+      "progress": 0.9823788546255506,
+      "unusedFlags": 1
+    }
+  },
+  "zh-Hant": {
+    "name": "Traditional Chinese",
+    "nativeName": "繁體中文",
+    "stats": {
+      "totalStringsCount": 454,
+      "translatedStringsCount": 446,
+      "progress": 0.9823788546255506,
+      "unusedFlags": 1
+    }
+  },
+  "fr": {
+    "name": "French",
+    "nativeName": "Français",
+    "stats": {
+      "totalStringsCount": 453,
+      "translatedStringsCount": 453,
+      "progress": 1,
+      "unusedFlags": 0
+    }
+  }
+}
